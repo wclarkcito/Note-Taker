@@ -4,4 +4,8 @@
 
 ## Link to Github
 
-## https://github.com/wclarkcito/Note-Taker
+### https://github.com/wclarkcito/Note-Taker
+
+## Link to deployed Heroku site
+
+### https://gentle-tor-71784.herokuapp.com/
